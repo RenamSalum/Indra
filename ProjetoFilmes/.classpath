@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="lib/serenity-core-1.9.14.jar"/>
+	<classpathentry kind="lib" path="lib/serenity-junit-1.9.14.jar"/>
+	<classpathentry kind="lib" path="lib/serenity-screenplay-1.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/serenity-screenplay-webdriver-1.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/serenity-spring-1.9.14.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/docs/xml-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/json-path-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/json-schema-validator-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/rest-assured-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/docs/json-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/docs/json-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/docs/rest-assured-common-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/docs/rest-assured-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/docs/xml-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="lib/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/xml-path-3.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
